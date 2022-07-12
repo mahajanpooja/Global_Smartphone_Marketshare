@@ -5,7 +5,8 @@ With the advancements of technology, some companies sustained the competition an
 
 Link for the Tableau dashboard:
 
-Link for the report: COMP5048_A2_Group-1.pdf
+Link for the report: https://github.com/mahajanpooja/Global_Smartphone_Marketshare/blob/ac3eb6e5192d9a6e472b7c2e03a8a7b3f8c7c872/COMP5048_A2_Group-1.pdf
+
 
 
  
